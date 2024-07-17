@@ -1,6 +1,6 @@
 # Quasar App (quasar-project)
 
-A Quasar Project
+ sss
 
 ## Install the dependencies
 ```bash
